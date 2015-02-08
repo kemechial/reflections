@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git adds a .git directory into the folder. By creating a repository, I will be able to track the changes on my project and undo them when needed or add a new version with test features easily.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It offers us the option to save the changes in different commits, because changes in different files can refer to different logical steps.
