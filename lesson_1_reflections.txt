@@ -1,0 +1,10 @@
+Viewing the difference between the versions of a file would be a great utility. I did not even know about "FC" command in Windows. I recognize that many bugs are induced by negligible yet annoying typos in files.
+Being able to easily accessing the history of a file would enable me to see the evolution of my code. So I can focus on my initial errors and try not to repeat them at the beginning of a new project. Otherwise, I would possibly have already forgotten how the initial state of my code was.
+
+If System automatically updated files. It would seem nice, since I would not have to care about when to save. However, the saves could be inbetween the major changes, which means the difference between the versions might not be easily understandable. Furthermore, adding reminder notes together with the changes is helpful when you come back and try to understand the version difference.
+
+Saving multiple files in one commit would be useful for a codder. I think git is about capturing the state of the app being developed, not individual files, which is beneficial.
+
+git log and git diff are cool commands. With "log" you can quickly view the milestones of the project and with git diff you can compare one state to the other revealing the changed lines.
+
+"Being able to return to previous version" feels you safe while making changes, without the fear of messing up everything. So you can try new things without hesitation.
