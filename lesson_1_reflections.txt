@@ -8,3 +8,5 @@ Saving multiple files in one commit would be useful for a codder. I think git is
 git log and git diff are cool commands. With "log" you can quickly view the milestones of the project and with git diff you can compare one state to the other revealing the changed lines.
 
 "Being able to return to previous version" feels you safe while making changes, without the fear of messing up everything. So you can try new things without hesitation.
+
+Edit for merge test.
