@@ -4,3 +4,5 @@ Why might you want to always pull changes manually rather than having Git automa
 Remote repository accepts commits from different users. I might be trying something different.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Clone does not enable you to make suggestions to the original creator of the repository and interact with him. Besides, you do not give credit to him. Fork is better for this situation. Clone is suitable, if you want to create something completely different than the original basing on it. Branch is good if you want to have different modes of the same project, or different users can have their own branches.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+In this manner, you can keep track of the new changes by the other people to the remote when you pull from origin and commit these changes to the local copy while retaining your own version.
